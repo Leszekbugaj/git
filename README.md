@@ -6,4 +6,8 @@ W Krainie Mordor, gdzie zaległy cienie,
 Jeden, by wszystkimi rządzić, Jeden, by wszystkie odnaleźć,
 Jeden, by wszystkie zgromadzić i w ciemności związać
 W Krainie Mordor, gdzie zaległy cienie.
+
 Edycja edycji zad 6
+
+Edycja do zad 5
+
