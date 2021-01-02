@@ -1,2 +1,7 @@
 zadanie_9.txt
 git_zad/
+log/
+build/
+*.pdf
+*.tmp
+*.log
